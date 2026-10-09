@@ -1,6 +1,6 @@
 {
-  "model": "logistic_regression",
-  "accuracy": 0.9825,
-  "f1": 0.9861,
-  "trained_on_commit": "6c2e6c9"
+  "model": "random_forest",
+  "accuracy": 0.9561,
+  "f1": 0.9655,
+  "trained_on_commit": "4407ca1"
 }
